@@ -1,0 +1,122 @@
+body {
+margin: 0;
+text-align: center;
+font-family: 'Raleway', sans-serif;
+
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 28.125rem;
+}
+
+/*.bottom-container {
+
+}*/
+
+.btn {
+    color: rgb(35, 178, 245);
+}
+
+.button {
+    background-color: #d4feff96;
+    border-radius: 1rem;
+    border-style: hidden;
+    font-size: 1.4rem;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin: 2rem;
+    padding: 1rem 1.2rem;
+    
+}
+
+.coding-image {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.footer-link {
+    color: #11999E;
+}
+
+h1 {
+    margin: 50px auto 10px auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625em;
+    color: rgb(35, 178, 245);
+    line-height: 2;
+}
+
+h2 {
+    color: rgb(35, 178, 245);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.75rem;
+    font-weight: normal;
+    margin-top: 0;
+    text-align: center;
+}
+
+h3 {
+   color: #11999E;
+}
+
+hr {
+    background-color: white;
+    border-style: dotted;
+    border-width: .6rem 0 0 0;
+    color: lightgray;
+    width: 12%;
+    margin: 60px auto 60px auto;
+}
+
+.inti {
+    width: 8%;
+    position: absolute;
+    left: 30%;
+}
+
+.middle-container {
+    text-align: center;
+    margin: 0 auto 0 auto;
+    width: 70%;
+}
+
+.photography {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.profile {
+    width: 50%;   
+    margin: 50px auto 100px auto;
+    text-align: center;
+    line-height: 2;
+}
+
+.skill-row {
+    width: 50%;   
+    margin: 50px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.sub-title {
+    font-weight: normal;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 28.125rem;
+}
+
+.top-container {
+    background-color: #d4feff;
+    position: relative;
+    padding-top: 100px;
+    }
